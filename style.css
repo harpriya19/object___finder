@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+   
+}
+
+#heading{
+    background-color: beige;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    color: rgba(73, 23, 23, 0.514);
+}
+#number_of_objects,#status{
+    background-color: rgb(194, 159, 84);
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(73, 23, 23, 0.514);
+}
+canvas{
+    box-shadow:5px 5px 5px sienna ;
+    border: 2px solid rgb(88, 51, 1);
+    margin-top: 200px;
+}
+#button_start{
+    background-color: darkgoldenrod;
+    font-size: larger;
+}
+#object_name{
+    background-color: darkgoldenrod;
+    font-size: larger;
+}
+
